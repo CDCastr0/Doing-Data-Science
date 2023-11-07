@@ -1,0 +1,11 @@
+---
+title: "Simple Website"
+author: "Christian"
+date: "2023-11-07"
+output: html_document
+---
+
+# My Website
+## Note: the 6 lines of text above are the YAML tags
+### Testing other headers
+Then push index.html to the github.io repo.
